@@ -6,9 +6,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Carlos%20Barros-2867B2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/casbjr/)](https://www.linkedin.com/in/casbjr/) 
 [![Gmail Badge](https://img.shields.io/badge/-casbjr1@gmail.com-c71610?style=flat-square&logo=Gmail&logoColor=white&link=mailto:casbjr1@gmail.com)](mailto:casbjr1@gmail.com)
 
-🔭 Currently working at Marketdata Solutions, as a DBM/BI Analyst full time allocated on our client UOL PagSeguro, an acquiring firm. 
+🔭 Currently working at Itaú Unibanco, the largest bank in Latin America with over 50 million customers, as a Data Analyst. 
 
-🌱 I am currently looking to deepen my knowledge in Data Science (Python) and data visualization (Tableau and Power BI).
+🌱 I'm currently looking to deepen my knowledge in Data Science (Python) and data visualization (Tableau and Power BI).
 
 
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=casbjr&theme=" />

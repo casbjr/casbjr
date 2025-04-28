@@ -11,6 +11,6 @@
 🌱 I'm currently looking to deepen my knowledge in Data Science (Python) and data visualization (Tableau and Power BI).
 
 
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=casbjr&theme=" />
+<img width="350px" align="left" src="https://github-readme-stats.vercel.app/api?username=casbjr&theme=" />
 
-<img width="400px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=casbjr&hide=html&layout=compact&theme=" />
+<img width="350px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=casbjr&hide=html&layout=compact&theme=" />
